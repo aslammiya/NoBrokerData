@@ -35,7 +35,7 @@ You can view the full schema structure in the documentation or in the sample CSV
 A sample CSV file with **100 rows** is attached to this proposal.  
 📎 **Note**: This file is **auto-generated with fake data** purely for schema demonstration purposes. It does **not contain real property listings** from NoBroker.in.
 
-➡️ [Download CSV Sample (fake data)](sandbox:/mnt/data/real_estate_sample_100.csv)
+➡️ [Download CSV Sample (fake data)](https://github.com/aslammiya/NoBrokerData/blob/main/real_estate_sample_100.csv)
 
 ---
 
